@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11cm"
+   height="11cm"
+   viewBox="0 0 110 110"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="therianpatch-v2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="1.9627273"
+     inkscape:cx="207.61927"
+     inkscape:cy="207.87402"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Backing"
+     style="display:inline">
+    <g
+       id="g4"
+       inkscape:label="Primitives"
+       style="display:none">
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path1-2-6"
+         cx="55.000004"
+         cy="55.000004"
+         r="2.5"
+         inkscape:label="Midpoint" />
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path1-2-61"
+         cx="55.000004"
+         cy="55.000004"
+         r="45"
+         inkscape:label="Outcircle 9cm" />
+      <circle
+         style="display:inline;fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path2-2"
+         cx="55.000004"
+         cy="55.000004"
+         r="30.000002"
+         inkscape:label="Incircle for Triangle 6cm" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path12"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="55.000004"
+         sodipodi:cy="55.000004"
+         sodipodi:r1="20.44541"
+         sodipodi:r2="10.222705"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 55.000004,34.554594 17.706244,30.668115 -35.412489,-10e-7 z"
+         inkscape:transform-center-y="-15.000002"
+         transform="matrix(2.9346441,0,0,2.9346441,-106.40544,-106.40544)"
+         inkscape:transform-center-x="2.1498486e-06"
+         inkscape:label="Triangle" />
+    </g>
+    <path
+       d="M 54.999746,2.4998461 45.707289,18.594988 C 24.940455,22.977776 10.059002,41.275602 9.9999067,62.499804 10.003594,67.268185 10.765173,72.005817 12.2561,76.535123 L 3.0385742,92.500041 H 21.625554 c 8.497972,9.501269 20.62714,14.952749 33.374192,15.000119 12.747232,-0.0472 24.876616,-5.49872 33.374708,-15.000119 H 106.96143 L 97.743908,76.535123 C 99.234844,72.00579 99.996414,67.268214 100.0001,62.499804 99.998401,41.199089 85.062186,22.817234 64.21262,18.456496 Z"
+       style="display:inline;fill:#d5cdda;stroke:#000001;stroke-width:0.26458334;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1"
+       id="path14"
+       inkscape:label="Backing" />
+  </g>
+  <g
+     inkscape:label="Circle"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g7"
+       inkscape:label="Primitives"
+       style="display:none">
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path1"
+         cx="55.000004"
+         cy="55.000004"
+         r="2.5"
+         inkscape:label="Midpoint" />
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path2"
+         cx="55.000004"
+         cy="55.000004"
+         r="30.000002"
+         inkscape:label="Incircle 6cm" />
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path3"
+         cx="55.000004"
+         cy="55.000004"
+         r="40"
+         inkscape:label="Outcircle 8cm" />
+      <g
+         id="g40"
+         inkscape:label="Triangle Cutters"
+         style="display:inline">
+        <path
+           style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="M 29.019824,70.001015 H 95.415112"
+           id="path34" />
+        <path
+           style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="M 78.048834,70.000005 46.317158,15.039129"
+           id="path33" />
+        <path
+           style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="M 56.465024,27.539519 24.73358,82.499994"
+           id="path32" />
+        <path
+           style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="m 30.485459,67.460438 h 63.46285"
+           id="path23" />
+        <path
+           style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="M 80.979599,70.002029 47.781956,12.502025"
+           id="path39" />
+        <path
+           style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           d="M 55.000003,25.000002 21.802366,82.499994"
+           id="path40" />
+      </g>
+    </g>
+    <path
+       id="path95"
+       style="display:inline;fill:#accfcf;stroke:#000001;stroke-width:0.26458334;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1"
+       d="m 46.842621,23.448956 c -0.408024,0.09112 -0.814598,0.188625 -1.219564,0.292488 -17.918333,4.320843 -30.564397,20.326515 -30.622938,38.75836 0.02349,3.836669 0.598862,7.650024 1.708422,11.322823 l 8.604644,-14.904 c 0.987978,-8.093057 5.227374,-15.435461 11.742436,-20.337261 1.413235,-1.058558 2.917185,-1.990291 4.494299,-2.784326 3.332558,-1.670966 6.947412,-2.70616 10.659298,-3.052527 l -4.448307,-7.704956 z m -16.217099,56.3454 -4.448824,7.705473 -0.914156,1.583366 c 0.256516,0.309498 0.517686,0.615115 0.783414,0.91674 7.532121,7.956006 17.997959,12.474345 28.95379,12.500015 10.95601,-0.0255 21.422061,-4.543879 28.954306,-12.500015 h -17.21187 c -3.7057,1.61605 -7.699826,2.466447 -11.742436,2.500106 -4.042436,-0.03373 -8.03638,-0.884125 -11.74192,-2.500106 -1.623422,-0.694639 -3.182364,-1.531262 -4.65863,-2.500106 -3.113589,-2.050704 -5.817682,-4.663842 -7.973674,-7.705473 z M 64.300987,23.60967 72.829666,38.381378 c 6.693185,4.95035 11.028416,12.459373 11.968779,20.731035 0.131035,1.124419 0.198323,2.255367 0.201538,3.387391 -0.03342,0.569048 -0.08305,1.137035 -0.148828,1.703255 -0.219199,3.721565 -1.130141,7.369717 -2.686141,10.757483 h 8.897131 1.9389 c 0.10237,-0.377862 0.199188,-0.757211 0.290422,-1.137915 1.10956,-3.672799 1.684931,-7.486154 1.708423,-11.322823 C 94.993663,43.99638 82.29723,27.912223 64.300987,23.60967 Z"
+       inkscape:label="Circle" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Triangle"
+     inkscape:highlight-color="#f33546"
+     style="display:inline">
+    <g
+       id="g6"
+       inkscape:label="Primitives"
+       style="display:none">
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path1-5"
+         cx="55.000004"
+         cy="55.000004"
+         r="2.5"
+         inkscape:label="Midpoint" />
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="circle3"
+         cx="55.000004"
+         cy="55.000004"
+         r="15.000001"
+         inkscape:label="Incircle for Inner Triangle 3cm" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path7"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="55.000004"
+         sodipodi:cy="55.000004"
+         sodipodi:r1="37.254787"
+         sodipodi:r2="18.627394"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 55.000005,17.745216 32.263591,55.882182 -64.527185,-10e-7 z"
+         inkscape:transform-center-y="-7.5000007"
+         transform="matrix(0.8052657,0,0,0.8052657,10.710388,10.710388)"
+         inkscape:label="Inner Triangle" />
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="circle4"
+         cx="55.000004"
+         cy="55.000004"
+         r="25"
+         inkscape:label="Incircle for Outer Triangle 5cm" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path8"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="55.000004"
+         sodipodi:cy="55.000004"
+         sodipodi:r1="9.702487"
+         sodipodi:r2="4.8512435"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 55.000004,45.297517 8.4026,14.553731 -16.805201,-10e-7 z"
+         inkscape:transform-center-y="-12.500008"
+         transform="matrix(5.1533183,0,0,5.1533183,-228.43252,-228.43253)"
+         inkscape:transform-center-x="-1.803768e-06"
+         inkscape:label="Outer Triangle" />
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="circle16"
+         cx="55.000004"
+         cy="55.000004"
+         r="27.500002"
+         inkscape:label="Incircle for Cut Triangle 5.5cm" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path16"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="55.000004"
+         sodipodi:cy="55.000004"
+         sodipodi:r1="9.702487"
+         sodipodi:r2="4.8512435"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 55.000004,45.297517 8.4026,14.553731 -16.805201,-10e-7 z"
+         inkscape:transform-center-y="-13.750008"
+         transform="matrix(5.6686497,0,0,5.6686497,-256.77575,-256.77576)"
+         inkscape:label="Cut Triangle" />
+    </g>
+    <path
+       id="path81"
+       style="display:inline;fill:#6eebc2;stroke:#000001;stroke-width:0.26458334;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1"
+       d="m 31.986162,77.500956 c 2.876654,4.38281 6.946186,7.852051 11.729001,9.998873 h 11.284583 11.285099 5.115967 14.68851 12.212175 l -5.772775,-9.998873 h -0.579809 -10.96884 l -5.17e-4,5.16e-4 -5.17e-4,-5.16e-4 H 78.013846 74.874502 35.125506 Z m 23.0141,-65.000686 -5.774841,10.001974 0.250114,0.432531 5.522144,9.565308 h 0.0021 5.16e-4 l 1.471229,2.548165 1.525488,2.642733 9.993189,17.309022 9.985437,17.294552 1.46451,2.537313 C 81.40874,71.016406 82.456636,66.792965 82.49991,62.499804 82.49511,61.62839 82.4489,60.757686 82.361417,59.89066 L 70.940375,40.108921 68.37154,35.660097 61.044338,22.968882 Z M 53.46909,35.151084 c -5.213041,0.286735 -10.236807,2.051541 -14.483871,5.088062 L 27.781251,59.644164 25.148853,64.203059 17.80925,76.916495 11.698511,87.499829 H 23.24561 l 0.268201,-0.464571 5.505607,-9.535336 1.540475,-2.668054 1.46451,-2.537313 9.985437,-17.294552 9.92911,-17.198434 z"
+       inkscape:label="Triangle" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Dash"
+     style="display:inline">
+    <g
+       id="g5"
+       inkscape:label="Primitives"
+       style="display:none">
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path1-2"
+         cx="55.000004"
+         cy="55.000004"
+         r="2.5"
+         inkscape:label="Midpoint" />
+      <circle
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path1-2-7"
+         cx="55.000004"
+         cy="55.000004"
+         r="12.5"
+         inkscape:label="Incircle for Triangle 2.5cm" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="path9"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="55.000004"
+         sodipodi:cy="55.000004"
+         sodipodi:r1="27.646446"
+         sodipodi:r2="13.823222"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 55.000005,27.353558 23.942523,41.46967 -47.885049,-2e-6 z"
+         inkscape:transform-center-y="-6.2499997"
+         transform="matrix(0.90427535,0,0,0.90427535,5.2648558,5.2648558)"
+         inkscape:label="Triangle" />
+      <rect
+         style="fill:none;stroke:#000001;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="rect9"
+         width="50"
+         height="10"
+         x="30.000004"
+         y="50.000004"
+         inkscape:label="Rectangle 5x1cm" />
+    </g>
+    <path
+       d="M 66.547362,57.500109 H 43.453163 l -5.773808,9.999906 h 34.641298 z"
+       style="display:inline;fill:#accfcf;stroke:#000001;stroke-width:0.26458334;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1"
+       id="path11"
+       inkscape:label="Dash" />
+  </g>
+</svg>
