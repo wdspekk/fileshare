@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="215.9mm" height="279.4mm" viewBox="0 0 215.9mm 279.4mm">
+  
+  <!-- White background -->
+  <rect width="215.9mm" height="279.4mm" fill="white" />
+
+  <!-- Border with light blue rectangle -->
+  <rect x="19.95mm" y="19.7mm" width="176mm" height="240mm" rx="5mm" ry="5mm" fill="none" stroke="lightgreen" stroke-width="1" />
+
+  <!-- Script to dynamically generate the grid lines -->
+  <script type="application/ecmascript">
+    <![CDATA[
+      // Get the SVG namespace
+      var svgNS = "http://www.w3.org/2000/svg";
+      
+      // Constants for positioning and spacing
+      var startX = 19.95;  // Left margin for vertical lines
+      var startY = 19.7;   // Top margin for horizontal lines
+      var ruleHeight = 240; // Height of the vertical lines
+      var ruleWidth = 176;  // Width of the horizontal lines
+      var vSpacing = 8;     // Spacing between vertical lines
+      var hMajorSpacing = 8; // Spacing between major horizontal lines
+      var hMinorSpacing = 2; // Spacing between minor horizontal lines
+      var verticalLines = 22; // Number of vertical lines
+      var majorLines = 30; // Number of major horizontal lines
+      var svg = document.querySelector("svg");
+
+      // Function to create a line
+      function createLine(x1, y1, x2, y2, strokeWidth, strokeColor) {
+        var line = document.createElementNS(svgNS, "line");
+        line.setAttribute("x1", x1 + "mm");
+        line.setAttribute("y1", y1 + "mm");
+        line.setAttribute("x2", x2 + "mm");
+        line.setAttribute("y2", y2 + "mm");
+        line.setAttribute("stroke", strokeColor);
+        line.setAttribute("stroke-width", strokeWidth + "px");
+        svg.appendChild(line);
+      }
+
+      // Generate vertical lines
+      for (var i = 1; i < verticalLines; i++) {
+        var x = startX + i * vSpacing;
+        createLine(x, startY, x, startY + ruleHeight, 0.5, "lightgreen");
+      }
+
+      // Generate major horizontal lines and minor ones between them
+      for (var j = 1; j < majorLines; j++) {
+        var yMajor = startY + j * hMajorSpacing;
+        createLine(startX, yMajor, startX + ruleWidth, yMajor, 0.5, "lightgreen");
+        
+        // Generate 3 minor horizontal lines between each pair of major lines
+        if (j < majorLines - 1) {
+          for (var k = 1; k <= 3; k++) {
+            var yMinor = yMajor + k * hMinorSpacing;
+            createLine(startX, yMinor, startX + ruleWidth, yMinor, 0.25, "pink");
+          }
+        }
+      }
+    ]]>
+  </script>
+</svg>
